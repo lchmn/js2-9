@@ -1,0 +1,2 @@
+.buttons-container{min-height:100vh;justify-content:center;align-items:center;margin:0;display:flex}button{color:#fff;cursor:pointer;background-color:#4caf50;border:none;border-radius:3px;margin:5px;padding:10px 20px;font-size:16px;transition:background-color .3s}button:hover{background-color:#45a049}button:disabled{cursor:default;background-color:#ccc}
+/*# sourceMappingURL=01-color-switcher.cb5647e5.css.map */
